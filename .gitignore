@@ -1,0 +1,4 @@
+cmake-build-debug
+test/custom-dir-renamed
+test/custom-dir
+.idea
